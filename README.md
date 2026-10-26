@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Doaa Khaled 
 
-<!--
-**Doaa-Khaled-IT/doaa-khaled-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning IT Technical Support at NTI, currently focusing on Help Desk.
 
-Here are some ideas to get you started:
+What I'm working on:
+- Windows Server 2022 & Active Directory
+- Networking basics (DNS, DHCP, TCP/IP)
+- Troubleshooting common issues
+- Learning PowerShell step by step
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile is where I'll document my labs and what I learn during the NTI program.
+
+I'm looking for my first opportunity as IT Help Desk / Technical Support L1.
+
+Cairo, Egypt
